@@ -1,0 +1,2 @@
+Percentage of 1's: 0.0
+Percentage of 0's: 100.0
